@@ -1,0 +1,9 @@
+¿Como funcionan los servidores de express?
+
+Express esta pensado para escribir codigo de nodeJS de manera mas rapida,
+mediante Metodos y Middlewares
+
+
+Para que sirve morgan?
+
+Morgan se utiliza para registrar todas las peticiones HTTP
